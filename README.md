@@ -5,3 +5,7 @@ Some of the features are as following:
 * Manually fill in the reservation date or automatically fill in the day after tomorrow of the latest reservation date.
 * The default "Select length" is 2 hours.
 * There is a list indicating the pripority of several options of room numbers.
+
+
+NOTE: 
+Since the study room reservation page has been upgraded on April, this script is currently not functional for the new page. 
