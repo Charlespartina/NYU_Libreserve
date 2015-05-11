@@ -403,11 +403,8 @@ print """
     
 # Add a parameter in format YYYY-MM-DD to set a reservation date
 # The default date is the day after tomorrow
+reserveRoom(login_1, another_email, optional_title, '8')
 
-reserveRoom(login_tzy, another_email, optional_title, '8')
-# reserveRoom(login_dzw, another_email, optional_title, '8')
-# reserveRoom(login_ljl, another_email, optional_title, '10')
-# reserveRoom(login_yhx, another_email, optional_title, '10')
 
 
 
