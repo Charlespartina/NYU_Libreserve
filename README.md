@@ -3,5 +3,5 @@ This script serves to automatically reserve a study room at NYU by urllib and ur
 Some of the features are as following:
 * Automatically login into the user's account.
 * Manually fill in the reservation date or automatically fill in the day after tomorrow of the latest reservation date.
-* The default reservation length is 2 hours.
+* The default "Select length" is 2 hours.
 * There is a list indicating the pripority of several options of room numbers.
