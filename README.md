@@ -8,4 +8,4 @@ Some of the features are as following:
 
 
 NOTE: 
-Since the study room reservation page has been upgraded on April, this script is currently not functional for the new page. 
+Since the study room reservation page has been upgraded on April, this script is currently not functional for the new page. Please check the upgraded vertion: [NYU_Libreserve_2.0](https://github.com/Charlespartina/NYU_Libreserve_2.0)
